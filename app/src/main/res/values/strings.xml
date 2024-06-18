@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="add_task">Agregar tarea</string>
+    <string name="update_task">Actualizar tarea</string>
+    <string name="hint_task">Escribe tu tarea aquí</string>
+    <string name="edit_task">Editar</string>
+    <string name="delete_task">Eliminar</string>
+</resources>
